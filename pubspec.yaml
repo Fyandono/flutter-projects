@@ -17,3 +17,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets: 
+    - assets/images/dice-six-faces-one.png
+    - assets/images/dice-six-faces-two.png
+    - assets/images/dice-six-faces-three.png
+    - assets/images/dice-six-faces-four.png
+    - assets/images/dice-six-faces-five.png
+    - assets/images/dice-six-faces-six.png
